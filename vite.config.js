@@ -11,7 +11,7 @@ export default defineConfig({
         beautify: true
       },
       compress: {
-        passes: 2
+        passes: 3
       }
     }
   }
